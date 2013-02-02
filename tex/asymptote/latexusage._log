@@ -1,0 +1,135 @@
+Input File::/home/charles/src/tex/asymptote/latexusage.tex::0::0::Input File
+Input File::/home/charles/src/tex/asymptote/article.cls::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/article.cls::0::0::article 2005/09/16 v1.4f Standard LaTeX document class
+Input File::/home/charles/src/tex/asymptote/size12.clo::0::0::Input File
+Input File::/home/charles/src/tex/asymptote/asymptote.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/asymptote.sty::0::0::asymptote 2010/08/19 v1.19 Asymptote style file for LaTeX
+Input File::/home/charles/src/tex/asymptote/keyval.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/keyval.sty::0::0::keyval 1999/03/16 v1.13 key=value parser (DPC)
+Input File::/home/charles/src/tex/asymptote/ifthen.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/ifthen.sty::0::0::ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+Input File::/home/charles/src/tex/asymptote/color.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/color.sty::0::0::color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+Input File::/home/charles/src/tex/asymptote/color.cfg::0::0::Input File
+Package Info::/home/charles/src/tex/asymptote/color.sty::130::0::Driver file: pdftex.def. (color)
+Input File::/home/charles/src/tex/asymptote/pdftex.def::0::0::Input File
+Input File::/home/charles/src/tex/asymptote/graphicx.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/graphicx.sty::0::0::graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+Input File::/home/charles/src/tex/asymptote/graphics.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/graphics.sty::0::0::graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+Input File::/home/charles/src/tex/asymptote/trig.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/trig.sty::0::0::trig 1999/03/16 v1.09 sin cos tan (DPC)
+Input File::/home/charles/src/tex/asymptote/graphics.cfg::0::0::Input File
+Package Info::/home/charles/src/tex/asymptote/graphics.sty::90::0::Driver file: pdftex.def. (graphics)
+Input File::/home/charles/src/tex/asymptote/hyperref.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/hyperref.sty::0::0::hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
+Input File::/home/charles/src/tex/asymptote/pd1enc.def::0::0::Input File
+Input File::/home/charles/src/tex/asymptote/hyperref.cfg::0::0::Input File
+Input File::/home/charles/src/tex/asymptote/kvoptions.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/kvoptions.sty::0::0::kvoptions 2006/08/22 v2.4 Connects package keyval with LaTeX options (HO)
+Package Info::/home/charles/src/tex/asymptote/hyperref.sty::2288::0::Hyper figures OFF. (hyperref)
+Package Info::/home/charles/src/tex/asymptote/hyperref.sty::2293::0::Link nesting OFF. (hyperref)
+Package Info::/home/charles/src/tex/asymptote/hyperref.sty::2296::0::Hyper index ON. (hyperref)
+Package Info::/home/charles/src/tex/asymptote/hyperref.sty::2303::0::Plain pages OFF. (hyperref)
+Package Info::/home/charles/src/tex/asymptote/hyperref.sty::2308::0::Backreferencing OFF. (hyperref)
+Package Info::/home/charles/src/tex/asymptote/hyperref.sty::2444::0::Bookmarks ON. (hyperref)
+Input File::/home/charles/src/tex/asymptote/url.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/url.sty::0::0::url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+LaTeX Info::/home/charles/src/tex/asymptote/hyperref.sty::2599::0::Redefining \url.
+Package Info::/home/charles/src/tex/asymptote/hyperref.sty::3102::0::Hyper figures OFF. (hyperref)
+Package Info::/home/charles/src/tex/asymptote/hyperref.sty::3107::0::Link nesting OFF. (hyperref)
+Package Info::/home/charles/src/tex/asymptote/hyperref.sty::3110::0::Hyper index ON. (hyperref)
+Package Info::/home/charles/src/tex/asymptote/hyperref.sty::3117::0::backreferencing OFF. (hyperref)
+Package Info::/home/charles/src/tex/asymptote/hyperref.sty::3122::0::Link coloring OFF. (hyperref)
+Input File::/home/charles/src/tex/asymptote/hpdftex.def::0::0::Input File
+Package Info::/home/charles/src/tex/asymptote/asymptote.sty::2::0::Option `setpagesize' set `false'. (hyperref)
+Package Info::/home/charles/src/tex/asymptote/asymptote.sty::2::0::Option `unicode' set `true'. (hyperref)
+Package Warning::/home/charles/src/tex/asymptote/asymptote.sty::0::0::Set package option `unicode' first in order to load unicode support. (hyperref package)
+Input File::/home/charles/src/tex/asymptote/movie15.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/movie15.sty::0::0::movie15 2007/01/17
+Input File::/home/charles/src/tex/asymptote/ifpdf.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/ifpdf.sty::0::0::ifpdf 2006/02/20 v1.4 Provides the ifpdf switch (HO)
+Package Info::/home/charles/src/tex/asymptote/ifpdf.sty::0::0::pdfTeX in pdf mode detected. (ifpdf)
+Input File::/home/charles/src/tex/asymptote/ifdraft.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/ifdraft.sty::0::0::ifdraft 2006/02/20 v1.2 Switch for option draft (HO)
+Input File::/home/charles/src/tex/asymptote/everyshi.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/everyshi.sty::0::0::everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+Input File::/home/charles/src/tex/asymptote/fp.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/fp.sty::0::0::fp 1995/04/02
+Input File::/home/charles/src/tex/asymptote/defpattern.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/defpattern.sty::0::0::defpattern 1994/10/12
+Input File::/home/charles/src/tex/asymptote/fp-basic.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/fp-basic.sty::0::0::fp-basic 1996/05/13
+Input File::/home/charles/src/tex/asymptote/fp-addons.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/fp-addons.sty::0::0::fp-addons 1995/03/15
+Input File::/home/charles/src/tex/asymptote/fp-snap.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/fp-snap.sty::0::0::fp-snap 1995/04/05
+Input File::/home/charles/src/tex/asymptote/fp-exp.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/fp-exp.sty::0::0::fp-exp 1995/04/03
+Input File::/home/charles/src/tex/asymptote/fp-trigo.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/fp-trigo.sty::0::0::fp-trigo 1995/04/14
+Input File::/home/charles/src/tex/asymptote/fp-pas.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/fp-pas.sty::0::0::fp-pas 1994/08/29
+Input File::/home/charles/src/tex/asymptote/fp-random.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/fp-random.sty::0::0::fp-random 1995/02/23
+Input File::/home/charles/src/tex/asymptote/fp-eqn.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/fp-eqn.sty::0::0::fp-eqn 1995/04/03
+Input File::/home/charles/src/tex/asymptote/fp-upn.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/fp-upn.sty::0::0::fp-upn 1996/10/21
+Input File::/home/charles/src/tex/asymptote/fp-eval.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/fp-eval.sty::0::0::fp-eval 1995/04/03
+Input File::/home/charles/src/tex/asymptote/bm.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/bm.sty::0::0::bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+LaTeX Font Info::/home/charles/src/tex/asymptote/bm.sty::137::0::   Redeclaring math alphabet \mathbf.
+LaTeX Info::/home/charles/src/tex/asymptote/bm.sty::203::0::Redefining \bm.
+Input File::/home/charles/src/tex/asymptote/latexusage.aux::0::0::Input File
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   ... okay.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   ... okay.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   ... okay.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   ... okay.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   ... okay.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   ... okay.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   Checking defaults for PD1/pdf/m/n.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::   ... okay.
+Package Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::Link coloring OFF. (hyperref)
+Input File::/home/charles/src/tex/asymptote/nameref.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/nameref.sty::0::0::nameref 2006/12/27 v2.28 Cross-referencing by name of section
+Input File::/home/charles/src/tex/asymptote/refcount.sty::0::0::Input File
+Input Package::/home/charles/src/tex/asymptote/refcount.sty::0::0::refcount 2006/02/20 v3.0 Data extraction from references (HO)
+LaTeX Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::Redefining \ref.
+LaTeX Info::/home/charles/src/tex/asymptote/latexusage.tex::15::0::Redefining \pageref.
+Input File::/home/charles/src/tex/asymptote/latexusage.out::0::0::Input File
+Input File::/home/charles/src/tex/asymptote/latexusage.out::0::0::Input File
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::80::0::   External font `cmex10' loaded for size <12>.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::80::0::   External font `cmex10' loaded for size <8>.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage.tex::80::0::   External font `cmex10' loaded for size <6>.
+Input File::/home/charles/src/tex/asymptote/latexusage-2.tex::0::0::Input File
+Package Info::/home/charles/src/tex/asymptote/latexusage-2.tex::15::0::Redefining color ASYcolor. (color)
+Package Info::/home/charles/src/tex/asymptote/latexusage-2.tex::18::0::Redefining color ASYcolor. (color)
+LaTeX Font Warning::/home/charles/src/tex/asymptote/latexusage-2.tex::19::0::Font shape `OT1/cmr/m/n' in size <24> not available size <24.88> substituted.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::   Calculating math sizes for size <24>.
+LaTeX Font Warning::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::Font shape `OT1/cmr/m/n' in size <16.79993> not available size <17.28> substituted.
+LaTeX Font Warning::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::Font shape `OML/cmm/m/it' in size <24> not available size <24.88> substituted.
+LaTeX Font Warning::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::Font shape `OML/cmm/m/it' in size <16.79993> not available size <17.28> substituted.
+LaTeX Font Warning::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::Font shape `OMS/cmsy/m/n' in size <24> not available size <24.88> substituted.
+LaTeX Font Warning::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::Font shape `OMS/cmsy/m/n' in size <16.79993> not available size <17.28> substituted.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::   External font `cmex10' loaded for size <24>.
+LaTeX Font Info::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::   External font `cmex10' loaded for size <16.79993>.
+LaTeX Font Warning::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::Font shape `OT1/cmr/bx/n' in size <24> not available size <24.88> substituted.
+LaTeX Font Warning::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::Font shape `OT1/cmr/bx/n' in size <16.79993> not available size <17.28> substituted.
+LaTeX Font Warning::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::Font shape `OML/cmm/b/it' in size <24> not available size <24.88> substituted.
+LaTeX Font Warning::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::Font shape `OML/cmm/b/it' in size <16.79993> not available size <17.28> substituted.
+LaTeX Font Warning::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::Font shape `OMS/cmsy/b/n' in size <24> not available size <24.88> substituted.
+LaTeX Font Warning::/home/charles/src/tex/asymptote/latexusage-2.tex::20::0::Font shape `OMS/cmsy/b/n' in size <16.79993> not available size <17.28> substituted.
+Package Info::/home/charles/src/tex/asymptote/latexusage-2.tex::21::0::Redefining color ASYcolor. (color)
+Package Info::/home/charles/src/tex/asymptote/latexusage-2.tex::24::0::Redefining color ASYcolor. (color)
+Package Info::/home/charles/src/tex/asymptote/latexusage-2.tex::27::0::Redefining color ASYcolor. (color)
+Input File::/home/charles/src/tex/asymptote/latexusage-3.tex::0::0::Input File
+Input File::/home/charles/src/tex/asymptote/latexusage.aux::0::0::Input File
+LaTeX Font Warning::/home/charles/src/tex/asymptote/latexusage.tex::0::0::Size substitutions with differences up to 0.88pt have occurred.

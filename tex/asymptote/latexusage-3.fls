@@ -1,0 +1,14 @@
+PWD /home/charles/src/tex/asymptote
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT latexusage-3.tex
+OUTPUT latexusage-3.log
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/cm/cmsy6.tfm
