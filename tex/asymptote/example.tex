@@ -1,0 +1,36 @@
+\documentclass{article}
+\usepackage[pdftex]{graphicx}
+\usepackage{asymptote}
+\begin{document}
+
+\begin{figure}[]
+  \centering
+  \begin{asy}
+    size(8cm);
+    include graph;
+    Label f;
+    f.p = fontsize(6);
+    xaxis(-10,10, Ticks(f, 2.0, 0.5));
+    yaxis(-10,10, Ticks(f, 2.0));
+
+    real f(real x)
+    {
+      return (x^3);
+    }
+    draw(graph(f, -2, 2));
+  \end{asy}
+\end{figure}
+
+\begin{figure}[]
+  \centering
+  \begin{asy}
+    size(8cm);
+    include graph;
+    xlimits(0, 20);
+    ylimits(0, 200);
+    xaxis('x-value');
+    yaxis('y-value');
+  \end{asy}
+\end{figure}
+
+\end{document}
