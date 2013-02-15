@@ -14,16 +14,24 @@
 #   about_triangle_project_2.rb
 #
 def triangle(a, b, c)
-  matches = 0
-  matches += 1 if a == b
-  matches += 1 if b == c
-  matches
-end
+  a, b, c = [a, b, c].sort
 
-p triangle(1,2,3)
-p triangle(2,2,3)
-p triangle(3,2,3)
-p triangle(3,3,3)
+  [a, b, c].each do |x|
+    if x < 0
+      raise TriangleError, "Lengths cannot be negative."
+    elsif x == 0
+      raise TriangleError, "Lengths cannot be zero."
+    end
+  end
+
+  raise TriangleError, "Sum of two sides must be greater than the third." if a + b <= c
+
+  return case [a,b,c].uniq.count
+         when 1; :equilateral
+         when 2; :isosceles
+         when 3; :scalene
+         end
+end
 
 # Error class used in part 2.  No need to change this code.
 class TriangleError < StandardError

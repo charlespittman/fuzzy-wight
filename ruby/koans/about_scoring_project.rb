@@ -31,6 +31,10 @@ require File.expand_path(File.dirname(__FILE__) + '/edgecase')
 
 def score(dice)
   # You need to write this method
+  return 0 if dice.empty?
+  p dice
+  counts = (1..6).to_a.collect do |x| dice.count x end
+  p counts
 end
 
 class AboutScoringProject < EdgeCase::Koan
