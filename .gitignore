@@ -76,3 +76,4 @@ tmp
 
 # Lisp stuff
 *.fas
+*.lib
