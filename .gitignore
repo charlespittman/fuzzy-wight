@@ -1,2 +1,78 @@
 *~
 ~.swp
+*.DS_Store
+
+# C++ compiled files
+## Object files
+*.lo
+*.o
+*.slo
+
+## Dynamic libraries
+*.dylib
+*.so
+
+## Static libraries
+*.a
+*.la
+*.lai
+
+## Executables
+*.app
+*.exe
+*.out
+
+# Ruby stuff
+*.gem
+*.rbc
+.bundle
+.config
+InstalledFiles
+coverage
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# LaTeX temporary files
+*.*log
+*.acn
+*.acr
+*.alg
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc0
+*.nav
+*.nlo
+*.out
+*.pdfsync
+*.ps
+*.snm
+*.synctex.gz
+*.tdo
+*.toc
+*.vrb
+*.xdy
+*eps-converted-to.pdf
+*project.vim
+
+# Lisp stuff
+*.fas
