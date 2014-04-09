@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/charles/projects/DAC8/DAC8.ncd
+OUTFILE=/home/charles/projects/DAC8/DAC8.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=/home/charles/projects/DAC8
+LICENSE=WebPack
+USER_INFO=210793928_0_0_076

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/charles/projects/Serial/top.ncd
+OUTFILE=/home/charles/projects/Serial/top.bit
+FAMILY=Spartan6
+PART=xc6slx9-3tqg144
+WORKINGDIR=/home/charles/projects/Serial
+LICENSE=WebPack
+USER_INFO=210793928_0_0_076

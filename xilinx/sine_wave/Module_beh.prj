@@ -1,0 +1,3 @@
+vhdl work "sine_package.vhd"
+vhdl work "sine_wave.vhd"
+vhdl work "sine_wave_tb.vhd"

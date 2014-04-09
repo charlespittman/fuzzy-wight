@@ -1,0 +1,10 @@
+
+<EDKSYSTEM EDKVERSION="14.7" EDWVERSION="1.2" TIMESTAMP="Tue Mar 25 18:17:24 2014">
+
+  <SYSTEMINFO ARCH="spartan6" DEVICE="xc6slx9" PACKAGE="tqg144" PART="xc6slx9tqg144-3" SOURCE="/home/charles/projects/Serial/fdsta/fdsta.xmp" SPEEDGRADE="-3"/>
+
+  <EXTERNALPORTS/>
+
+  <MODULES/>
+
+</EDKSYSTEM>

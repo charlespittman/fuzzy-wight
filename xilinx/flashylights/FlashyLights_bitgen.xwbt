@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/charles/projects/flashylights/FlashyLights.ncd
+OUTFILE=/home/charles/projects/flashylights/FlashyLights.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=/home/charles/projects/flashylights
+LICENSE=WebPack
+USER_INFO=210793928_0_0_076

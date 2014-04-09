@@ -1,0 +1,1 @@
+NET stream          LOC="P62"  | IOSTANDARD=LVTTL;                                # B10
