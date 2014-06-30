@@ -1,6 +1,8 @@
 # Transposition Cipher Decryption
 
-import math, pyperclip
+import math
+import pyperclip
+
 
 def main():
     myMessage = 'Cenoonommstmme oo snnio. s s c'
@@ -13,6 +15,7 @@ def main():
     print(plaintext + '|')
 
     pyperclip.copy(plaintext)
+
 
 def decryptMessage(key, message):
     # The transposition decrypt function will simulate he "columns" and "rows"
@@ -32,7 +35,7 @@ def decryptMessage(key, message):
 
         # If there are no more columns OR we're at a shaded box, go back to the
         # first column and the next row.
-        if (col == numOfColumns) or (col == numOfColumns - 1 and row>=
+        if (col == numOfColumns) or (col == numOfColumns - 1 and row >=
                                      numOfRows - numOfShadedBoxes):
             col = 0
             row += 1

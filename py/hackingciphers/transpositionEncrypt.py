@@ -2,6 +2,7 @@
 
 import pyperclip
 
+
 def main():
     myMessage = 'Common sense is not so common.'
     myKey = 8
@@ -14,6 +15,7 @@ def main():
     print(ciphertext + '|')
 
     pyperclip.copy(ciphertext)
+
 
 def encryptMessage(key, message):
     # Each string in ciphertext represents a column in the grid.
