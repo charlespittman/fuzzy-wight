@@ -7,15 +7,16 @@ import random
 import string
 
 # Set of symbols that can be encrypted (includes whitespace)
-SYMBOLS = string.printable
+SYMBOLS = (' ' + string.ascii_letters + string.digits + string.punctuation)
 
 
 def main():
-    #myMessage = """"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human." -Alan Turing"""
-    myMessage = """0,vNZX!&%P#v(Z&WOvOP$P#'Pv%ZvMPvNLWWPOvTY%PWWTRPY%vTQvT%vNZ&WOvOPNPT'PvLvS&XLYvTY%ZvMPWTP'TYRv%SL%vT%v(L$vS&XLYc0vb,WLYv}&#TYR"""
-    myKey = 10137
-    #myMode = 'encrypt'  # encrypt or decrypt
-    myMode = 'decrypt'
+    myMessage = """"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human." -Alan Turing"""
+    # myMessage = """PyB{5p;_&LzBJ5_`qBqLULzoLB&5B(LB{W``LqBAK&L``A<LK&BA6BA&B{5_`qBqL{LAoLBWBf_pWKBAK&5B(L`ALoAK<B&fW&BA&BJWUBf_pWKiPB?y`WKBR_zAK<"""
+    # myKey = 10137
+    myKey = 2023
+    myMode = 'encrypt'  # encrypt or decrypt
+    # myMode = 'decrypt'
 
     if myMode == 'encrypt':
         translated = encryptMessage(myKey, myMessage)
@@ -31,7 +32,7 @@ def main():
 def getKeyParts(key):
     keyA = key // len(SYMBOLS)
     keyB = key % len(SYMBOLS)
-    return (keyA, keyB)
+    return keyA, keyB
 
 
 def checkKeys(keyA, keyB, mode):
