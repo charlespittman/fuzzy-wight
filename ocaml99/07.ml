@@ -1,7 +1,6 @@
 (** Flatten a nested list structure. (medium)
 
-    # flatten
-       [ One "a" ; Many [ One "b" ; Many [ One "c" ; One "d" ] ; One "e" ] ];;
+    # flatten [ One "a" ; Many [ One "b" ; Many [ One "c" ; One "d" ] ; One "e" ] ];;
     - : string list = ["a"; "b"; "c"; "d"; "e"]
 *)
 
@@ -10,7 +9,8 @@
 
 type 'a node =
   | One of 'a
-  | Many of 'a node list;;
+  | Many of 'a node list
+;;
 
 (* This function traverses the list, prepending any encountered elements to an
    accumulator, which flattens the list in inverse order.  It can then be
@@ -24,4 +24,4 @@ let flatten list =
   in List.rev (aux [] list)
 ;;
 
-  flatten [ One "a" ; Many [ One "b" ; Many [ One "c" ; One "d" ] ; One "e" ] ];;
+flatten [ One "a" ; Many [ One "b" ; Many [ One "c" ; One "d" ] ; One "e" ] ] ;;
