@@ -155,6 +155,32 @@ void Database_list(struct Connection *conn)
   }
 }
 
+void Database_find_email(struct Connection *conn, const char *email)
+{
+  int i = 0;
+  struct Database *db = conn->db;
+
+  for (i = 0; i < MAX_ROWS; i++) {
+    struct Address *cur = &db->rows[i];
+    if (cur->set && strcmp(cur->email, email)) {
+      Address_print(cur);
+    }
+  }
+}
+
+void Database_find_name(struct Connection *conn, const char *name)
+{
+  int i = 0;
+  struct Database *db = conn->db;
+
+  for (i = 0; i < MAX_ROWS; i++) {
+    struct Address *cur = &db->rows[i];
+    if (cur->set && strcmp(cur->name, name)) {
+      Address_print(cur);
+    }
+  }
+}
+
 int main(int argc, char *argv[])
 {
   if (argc < 3) die("USAGE: ex17 <dbfile> <action> [action params]", NULL);
@@ -193,12 +219,26 @@ int main(int argc, char *argv[])
     Database_write(conn);
     break;
 
+  case 'f':
+    if (argc != 5) die("Need attribute, value to find", NULL);
+
+    char attribute = argv[3][0];
+    char *value = argv[4];
+
+    if (attribute == 'e') {
+      Database_find_email(conn, value);
+    } else {
+      Database_find_name(conn, value);
+    }
+    break;
+
   case 'l':
     Database_list(conn);
     break;
 
   default:
-    die("Invalid action, only: c=create, g=get, s=set, d=del, l=list.", NULL);
+    die("Invalid action, only: c=create, g=get, f=find, s=set, d=del, l=list.",
+        NULL);
   }
 
   Database_close(conn);
