@@ -4,7 +4,7 @@
 #include <errno.h>
 #include <string.h>
 
-#define MAX_DATA 4
+#define MAX_DATA 512
 #define MAX_ROWS 100
 
 struct Address
